@@ -1,0 +1,1 @@
+This repository contains python code implemented using Google's Mediapipe and OpenCV library to implement virtual air painter. One can draw on screen by drawing in air with hand in front of the camera. The UI to enhance the tool selection has been developed using Canva.
